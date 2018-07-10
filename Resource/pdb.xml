@@ -1,0 +1,1970 @@
+<resultset>
+<parsererror style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black">
+<h3>This page contains the following errors:</h3>
+<div style="font-family:monospace;font-size:12px">
+error on line 1960 at column 62: xmlParseEntityRef: no name
+</div>
+<h3>
+Below is a rendering of the page up to the first error.
+</h3>
+</parsererror>
+<search>
+<operator value="and">
+<sampleName>%</sampleName>
+<resolution>
+<low>0</low>
+<high>10</high>
+</resolution>
+<releaseDate>
+<toDate>2016-11-17</toDate>
+<fromDate>2016-06-01</fromDate>
+</releaseDate>
+</operator>
+</search>
+<header>
+<columnTitle type="emdbid">EMDB Accession code</columnTitle>
+<columnTitle type="emdbTitle">EMDB title</columnTitle>
+<columnTitle type="resolution">Resolution</columnTitle>
+<columnTitle type="pdbId">PDB ID</columnTitle>
+</header>
+<row>
+<column type="emdbid">3432</column>
+<column type="emdbTitle">
+Anaphase-promoting complex/Cyclosome (APC/C)-CDH1-UBE2C (aka UBCH10)-substrate-Ubiquitin (variant)
+</column>
+<column type="resolution">6.4</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">3433</column>
+<column type="emdbTitle">
+Anaphase-promoting complex/Cyclosome (APC/C)-CDH1-UBE2S-Ubiquitin (variant)-substrate
+</column>
+<column type="resolution">6.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">3434</column>
+<column type="emdbTitle">
+Single-particle cryo-EM using alignment by classification (ABC):Lumbricus terrestris hemoglobin at near-atomic resolution
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">3435</column>
+<column type="emdbTitle">Structure of the ATPgS-bound VAT complex</column>
+<column type="resolution">7.8</column>
+<column type="pdbId">5g4g</column>
+</row>
+<row>
+<column type="emdbid">3436</column>
+<column type="emdbTitle">Structure of the ADP-bound VAT complex</column>
+<column type="resolution">7.0</column>
+<column type="pdbId">5g4f</column>
+</row>
+<row>
+<column type="emdbid">3437</column>
+<column type="emdbTitle">
+Three-dimensional reconstruction of W1075 strain Rosellinia necatrix quadrivirus 1
+</column>
+<column type="resolution">8.2</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">3438</column>
+<column type="emdbTitle">
+Three-dimensional reconstruction of W1118 strain Rosellinia necatrix quadrivirus 1
+</column>
+<column type="resolution">9.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">3439</column>
+<column type="emdbTitle">RNA polymerase I-Rrn3 complex at 4.8 A resolution</column>
+<column type="resolution">4.8</column>
+<column type="pdbId">5g5l</column>
+</row>
+<row>
+<column type="emdbid">3440</column>
+<column type="emdbTitle">
+Structure of the Saccharomyces cerevisiae TREX-2 complex
+</column>
+<column type="resolution">5.3</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">3443</column>
+<column type="emdbTitle">
+Electron cryo-microscopy of the yeast RNA polymerase I - Rrn3 complex at 7.5A resolution
+</column>
+<column type="resolution">7.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4001</column>
+<column type="emdbTitle">
+Cryo-EM structure of stringent response factor RelA bound to ErmCL-stalled ribosome complex
+</column>
+<column type="resolution">3.7</column>
+<column type="pdbId">5l3p</column>
+</row>
+<row>
+<column type="emdbid">4002</column>
+<column type="emdbTitle">The human 26S proteasome at 3.9</column>
+<column type="resolution">3.9</column>
+<column type="pdbId">5l4g ;5l4k</column>
+</row>
+<row>
+<column type="emdbid">4004</column>
+<column type="emdbTitle">
+Tail sheath and tail tube of native bacteriophage phi812K1-420
+</column>
+<column type="resolution">6.2</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4005</column>
+<column type="emdbTitle">
+Tail sheath of bacteriophage phi812K1-420 after contraction
+</column>
+<column type="resolution">4.2</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4009</column>
+<column type="emdbTitle">Suppressed</column>
+<column type="resolution">3.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4011</column>
+<column type="emdbTitle">
+Structure of a hexagonal assembly of the wt PFV glycoprotein from the iNAB Gag mutant by cryo-electron microscopy
+</column>
+<column type="resolution">9.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4012</column>
+<column type="emdbTitle">
+Structure of a hexagonal assembly of the PFV glycoprotein from the iFuse Env mutant by cryo-electron microscopy
+</column>
+<column type="resolution">9.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4013</column>
+<column type="emdbTitle">
+Structure of a hexagonal assembly of the PFV glycoprotein from the iFuse Env mutant by cryo-electron microscopy
+</column>
+<column type="resolution">8.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4014</column>
+<column type="emdbTitle">
+Structure of deformed wing virus, a honeybee pathogen
+</column>
+<column type="resolution">3.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4015</column>
+<column type="emdbTitle">
+A 3.9 Angstrom structure of HIV-1 CA-SP1 assembled in presence of Bevirimat
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId">5l93</column>
+</row>
+<row>
+<column type="emdbid">4016</column>
+<column type="emdbTitle">A 4.5 Angstrom structure of HIV-1 CA-SP1</column>
+<column type="resolution">4.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4017</column>
+<column type="emdbTitle">
+A 4.2 Angstrom structure of HIV-1 CA-SP1 from immature HIV-1 particles
+</column>
+<column type="resolution">4.2</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4018</column>
+<column type="emdbTitle">
+Cryo-electron tomogram containing HIV-1 deltaMACANC virus-like particles assembled in vitro in presence of Bevirimat
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4019</column>
+<column type="emdbTitle">
+Cryo-electron tomogram containing HIV-1 deltaMACANC virus-like particles assembled in vitro
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4020</column>
+<column type="emdbTitle">
+Cryo-electron tomogram containing immature HIV-1 particles
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4021</column>
+<column type="emdbTitle">
+Human Anaphase-Promoting Complex/Cyclosome (APC/C) APC15 deletion mutant with Mitotic Checkpoint Complex (MCC) in a closed conformation.
+</column>
+<column type="resolution">4.8</column>
+<column type="pdbId">5khu</column>
+</row>
+<row>
+<column type="emdbid">4022</column>
+<column type="emdbTitle">
+Human Anaphase-Promoting Complex/Cyclosome (APC/C) APC15 deletion mutant with Mitotic Checkpoint Complex (MCC) in an open conformation.
+</column>
+<column type="resolution">9.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4023</column>
+<column type="emdbTitle">
+Human Anaphase-Promoting Complex/Cyclosome bound to Mitotic Checkpoint Complex (APC/C-MCC) in a closed conformation.
+</column>
+<column type="resolution">9.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4024</column>
+<column type="emdbTitle">
+Human Anaphase-promoting complex/Cyclosome bound to Mitotic Checkpoint Complex(APC/C-MCC) in an open conformation.
+</column>
+<column type="resolution">10.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4025</column>
+<column type="emdbTitle">
+Human Anaphase-promoting complex/Cyclosome (APC/C) APC15 deletion mutant bound to the E2 UBE2C (aka UBCH10) poised for ubiquitin ligation to substrate.
+</column>
+<column type="resolution">6.1</column>
+<column type="pdbId">5khr</column>
+</row>
+<row>
+<column type="emdbid">4026</column>
+<column type="emdbTitle">
+Human Anaphase-Promoting Complex/Cyclosome (APC/C) APC15 deletion mutant bound to Mitotic Checkpoint Complex (MCC) and the E2 UBE2S poised for UB chain synthesis.
+</column>
+<column type="resolution">5.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4032</column>
+<column type="emdbTitle">
+Structure of mammalian respiratory Complex I, class2
+</column>
+<column type="resolution">4.4</column>
+<column type="pdbId">5lc5</column>
+</row>
+<row>
+<column type="emdbid">4034</column>
+<column type="emdbTitle">influenza virus membrane fusion</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4037</column>
+<column type="emdbTitle">
+Cryo-EM structure of the Anaphase-promoting complex/Cyclosome, in complex with the Mitotic checkpoint complex (APC/C-MCC) at 4.2 angstrom resolution
+</column>
+<column type="resolution">4.2</column>
+<column type="pdbId">5lcw</column>
+</row>
+<row>
+<column type="emdbid">4038</column>
+<column type="emdbTitle">
+Cryo-EM structure of RecBCD+DNA complex revealing activated nuclease domain
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5ld2</column>
+</row>
+<row>
+<column type="emdbid">4039</column>
+<column type="emdbTitle">
+Maltose binding protein genetically fused to dodecameric glutamine synthetase
+</column>
+<column type="resolution">6.2</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4040</column>
+<column type="emdbTitle">
+Structure of mammalian respiratory Complex I, class1
+</column>
+<column type="resolution">4.3</column>
+<column type="pdbId">5ldw</column>
+</row>
+<row>
+<column type="emdbid">4041</column>
+<column type="emdbTitle">
+Structure of mammalian respiratory Complex I, class3
+</column>
+<column type="resolution">5.6</column>
+<column type="pdbId">5ldx</column>
+</row>
+<row>
+<column type="emdbid">4042</column>
+<column type="emdbTitle">
+Cryo-EM structure of the bacterial sex F pilus (pED208)
+</column>
+<column type="resolution">3.6</column>
+<column type="pdbId">5leg</column>
+</row>
+<row>
+<column type="emdbid">4044</column>
+<column type="emdbTitle">
+Cryo-EM structure of the bacterial sex F pilus (13.2 Angstrom rise)
+</column>
+<column type="resolution">5.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4046</column>
+<column type="emdbTitle">
+Cryo-EM structure of the bacterial sex F pilus (12.5 Angstrom rise)
+</column>
+<column type="resolution">5.0</column>
+<column type="pdbId">5lfb</column>
+</row>
+<row>
+<column type="emdbid">4047</column>
+<column type="emdbTitle">
+Cryo-EM structure of ternary deletion mutant of human APC/C-Cdh1-Hsl1 complex without Apc1 WD40 domain
+</column>
+<column type="resolution">6.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4048</column>
+<column type="emdbTitle">
+CryoEM structure of the apo deletion mutant APC/C complex without Apc1 WD40 domain
+</column>
+<column type="resolution">6.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4055</column>
+<column type="emdbTitle">
+Overall map of the yeast spliceosome immediately after branching
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5lj3</column>
+</row>
+<row>
+<column type="emdbid">4056</column>
+<column type="emdbTitle">
+Structure of the yeast spliceosome immediately after branching. 3D class containing Prp19 module.
+</column>
+<column type="resolution">5.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4057</column>
+<column type="emdbTitle">
+Structure of the yeast spliceosome immediately after branching. 3D class containing helicase module.
+</column>
+<column type="resolution">10.0</column>
+<column type="pdbId">5lj5</column>
+</row>
+<row>
+<column type="emdbid">4058</column>
+<column type="emdbTitle">
+Structure of the yeast spliceosome immediately after branching. Core without WD40 domain.
+</column>
+<column type="resolution">4.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4059</column>
+<column type="emdbTitle">
+Structure of the yeast spliceosome immediately after branching. Core with WD40 domain.
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4061</column>
+<column type="emdbTitle">
+CryoEM map of E. coli BAM complex (BamABCDE) in DDM micelle
+</column>
+<column type="resolution">4.9</column>
+<column type="pdbId">5ljo</column>
+</row>
+<row>
+<column type="emdbid">4062</column>
+<column type="emdbTitle">MamK double helical filament at 3.6 A resolution</column>
+<column type="resolution">3.6</column>
+<column type="pdbId">5ljv</column>
+</row>
+<row>
+<column type="emdbid">4063</column>
+<column type="emdbTitle">
+Single particle reconstruction of slow bee paralysis virus virion at pH 5.5
+</column>
+<column type="resolution">3.4</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4064</column>
+<column type="emdbTitle">
+single particle reconstruction of slow bee paralysis virus empty particle
+</column>
+<column type="resolution">3.4</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4065</column>
+<column type="emdbTitle">Influenza virus membrane fusion</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4066</column>
+<column type="emdbTitle">Influenza virus membrane fusion</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4067</column>
+<column type="emdbTitle">Influenza virus membrane fusion</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4068</column>
+<column type="emdbTitle">
+Cryo-EM structure of the Tc toxin TcdA1 in its pore state
+</column>
+<column type="resolution">3.5</column>
+<column type="pdbId">5lki ;5lkh</column>
+</row>
+<row>
+<column type="emdbid">4071</column>
+<column type="emdbTitle">40S-ABCE1-post-splitting complex</column>
+<column type="resolution">4.3</column>
+<column type="pdbId">5ll6</column>
+</row>
+<row>
+<column type="emdbid">4073</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF3-mRNA translation pre-initiation complex (state-1A)
+</column>
+<column type="resolution">3.6</column>
+<column type="pdbId">5lmn</column>
+</row>
+<row>
+<column type="emdbid">4074</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF3-mRNA translation pre-initiation complex (state-1B)
+</column>
+<column type="resolution">4.3</column>
+<column type="pdbId">5lmo</column>
+</row>
+<row>
+<column type="emdbid">4075</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF3-mRNA translation pre-initiation complex (state-1C)
+</column>
+<column type="resolution">5.4</column>
+<column type="pdbId">5lmp</column>
+</row>
+<row>
+<column type="emdbid">4076</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF3-mRNA-tRNA translation pre-initiation complex, open form (state-2A)
+</column>
+<column type="resolution">4.2</column>
+<column type="pdbId">5lmq</column>
+</row>
+<row>
+<column type="emdbid">4077</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF3-mRNA-tRNA translation pre-initiation complex(state-2B)
+</column>
+<column type="resolution">4.5</column>
+<column type="pdbId">5lmr</column>
+</row>
+<row>
+<column type="emdbid">4078</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF3-mRNA-tRNA translation pre-initiation complex(state-2C)
+</column>
+<column type="resolution">5.1</column>
+<column type="pdbId">5lms</column>
+</row>
+<row>
+<column type="emdbid">4079</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF3-mRNA-tRNA translation pre-initiation complex(state-3)
+</column>
+<column type="resolution">4.2</column>
+<column type="pdbId">5lmt</column>
+</row>
+<row>
+<column type="emdbid">4080</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF3-mRNA-tRNA translation pre-initiation complex, closed form (state-4)
+</column>
+<column type="resolution">4.0</column>
+<column type="pdbId">5lmu</column>
+</row>
+<row>
+<column type="emdbid">4081</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF2-IF3-mRNA translation pre-initiation complex (state-I)
+</column>
+<column type="resolution">9.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4082</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF2-IF3-mRNA-tRNA translation pre-initiation complex(state-II)
+</column>
+<column type="resolution">8.3</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4083</column>
+<column type="emdbTitle">
+Structure of bacterial 30S-IF1-IF2-IF3-mRNA-tRNA translation pre-initiation complex(state-III)
+</column>
+<column type="resolution">4.9</column>
+<column type="pdbId">5lmv</column>
+</row>
+<row>
+<column type="emdbid">4084</column>
+<column type="emdbTitle">Entire ovine respiratory complex I</column>
+<column type="resolution">3.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4086</column>
+<column type="emdbTitle">RNA polymerase I-Rrn3 complex</column>
+<column type="resolution">7.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4087</column>
+<column type="emdbTitle">Monomeric RNA polymerase I at 5.6 A resolution</column>
+<column type="resolution">5.6</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4088</column>
+<column type="emdbTitle">Monomeric RNA polymerase I at 4.9 A resolution</column>
+<column type="resolution">4.9</column>
+<column type="pdbId">5lmx</column>
+</row>
+<row>
+<column type="emdbid">4089</column>
+<column type="emdbTitle">Suppressed</column>
+<column type="resolution">6.8</column>
+<column type="pdbId">5ln3</column>
+</row>
+<row>
+<column type="emdbid">4090</column>
+<column type="emdbTitle">Ovine respiratory complex I, peripheral arm</column>
+<column type="resolution">3.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4091</column>
+<column type="emdbTitle">Ovine respiratory complex I, membrane domain</column>
+<column type="resolution">3.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4092</column>
+<column type="emdbTitle">
+Tomographic reconstruction of ex vivo mammalian prions
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4096</column>
+<column type="emdbTitle">Cryo-EM structure of the Yvh1 pre-60S particle</column>
+<column type="resolution">7.4</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4099</column>
+<column type="emdbTitle">Yeast activated spliceosomal B complex</column>
+<column type="resolution">5.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4109</column>
+<column type="emdbTitle">Cryo-EM of bovine respirasome</column>
+<column type="resolution">9.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4114</column>
+<column type="emdbTitle">Suppressed</column>
+<column type="resolution">3.2</column>
+<column type="pdbId">5lwg</column>
+</row>
+<row>
+<column type="emdbid">4115</column>
+<column type="emdbTitle">Suppressed</column>
+<column type="resolution">3.2</column>
+<column type="pdbId">5lwi</column>
+</row>
+<row>
+<column type="emdbid">4116</column>
+<column type="emdbTitle">
+RELION-2.0 reconstruction for beta-galactosidase data in EMPIAR-10061
+</column>
+<column type="resolution">2.2</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4127</column>
+<column type="emdbTitle">
+Cryo-EM reconstruction of the Bacterial proteasome interactor (Bpa) bound to the 20S proteasome of M. tuberculosis.
+</column>
+<column type="resolution">4.6</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">4129</column>
+<column type="emdbTitle">
+Structure of the mammalian ribosome with P- and E-site tRNAs and an unoccupied A site
+</column>
+<column type="resolution">3.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">6574</column>
+<column type="emdbTitle">
+Cryo-EM map of yeast 26S proteasome in M1 state derived from Titan dataset
+</column>
+<column type="resolution">4.8</column>
+<column type="pdbId">3jco</column>
+</row>
+<row>
+<column type="emdbid">6575</column>
+<column type="emdbTitle">
+Cryo-EM map of yeast 26S proteasome in M2 state derived from Titan dataset
+</column>
+<column type="resolution">4.6</column>
+<column type="pdbId">3jcp</column>
+</row>
+<row>
+<column type="emdbid">6636</column>
+<column type="emdbTitle">
+The novel asymmetric entry intermediate of a picornavirus captured with nanodiscs
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">6637</column>
+<column type="emdbTitle">
+The novel asymmetric entry intermediate of a picornavirus captured with nanodiscs
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId">3jd7</column>
+</row>
+<row>
+<column type="emdbid">6638</column>
+<column type="emdbTitle">
+The novel asymmetric entry intermediate of a picornavirus captured with nanodiscs
+</column>
+<column type="resolution">7.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">6640</column>
+<column type="emdbTitle">
+cryo-EM map of the full-length human NPC1 at 4.4 angstrom
+</column>
+<column type="resolution">4.4</column>
+<column type="pdbId">3jd8</column>
+</row>
+<row>
+<column type="emdbid">6641</column>
+<column type="emdbTitle">
+cryo-EM map of the full-length human NPC1 at 6.7 angstrom
+</column>
+<column type="resolution">6.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">6642</column>
+<column type="emdbTitle">Cryo-EM structure of the WRC-Rac1 complex</column>
+<column type="resolution">7.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">6643</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">4.0</column>
+<column type="pdbId">5juo</column>
+</row>
+<row>
+<column type="emdbid">6644</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">3.3</column>
+<column type="pdbId">5jup</column>
+</row>
+<row>
+<column type="emdbid">6645</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">4.2</column>
+<column type="pdbId">5jus</column>
+</row>
+<row>
+<column type="emdbid">6646</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">4.0</column>
+<column type="pdbId">5jut</column>
+</row>
+<row>
+<column type="emdbid">6647</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">4.0</column>
+<column type="pdbId">5juu</column>
+</row>
+<row>
+<column type="emdbid">6648</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">4.0</column>
+<column type="pdbId">5juo</column>
+</row>
+<row>
+<column type="emdbid">6649</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">3.6</column>
+<column type="pdbId">5jup</column>
+</row>
+<row>
+<column type="emdbid">6650</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">4.0</column>
+<column type="pdbId">5jus</column>
+</row>
+<row>
+<column type="emdbid">6651</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">4.2</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">6652</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId">5jut</column>
+</row>
+<row>
+<column type="emdbid">6653</column>
+<column type="emdbTitle">
+Ensemble cryo-EM uncovers inchworm-like translocation of a viral IRES through the ribosome
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5juu</column>
+</row>
+<row>
+<column type="emdbid">8058</column>
+<column type="emdbTitle">
+Structural basis of backwards motion in kinesin-14: minus-end directed nKn664 in the AMPPNP state
+</column>
+<column type="resolution">6.6</column>
+<column type="pdbId">5hnw</column>
+</row>
+<row>
+<column type="emdbid">8059</column>
+<column type="emdbTitle">
+Structural basis of backwards motion in kinesin-14: minus-end directed nKn664 in the nucleotide-free state
+</column>
+<column type="resolution">6.6</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8060</column>
+<column type="emdbTitle">
+Structural basis of backwards motion in kinesin-14: plus-end directed nKn669 in the AMPPNP state
+</column>
+<column type="resolution">6.3</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8061</column>
+<column type="emdbTitle">
+Structural basis of backwards motion in kinesin-14: plus-end directed nKn669 in the nucleotide-free state
+</column>
+<column type="resolution">5.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8062</column>
+<column type="emdbTitle">Cryo-EM structure of Nucleosome</column>
+<column type="resolution">7.3</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8063</column>
+<column type="emdbTitle">Cryo-EM structure of Nucleosome</column>
+<column type="resolution">7.3</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8072</column>
+<column type="emdbTitle">Alcohol oxidase from Pichia pastoris</column>
+<column type="resolution">3.4</column>
+<column type="pdbId">5i68</column>
+</row>
+<row>
+<column type="emdbid">8076</column>
+<column type="emdbTitle">Suppressed</column>
+<column type="resolution">3.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8084</column>
+<column type="emdbTitle">Suppressed</column>
+<column type="resolution">3.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8099</column>
+<column type="emdbTitle">Structure of Adeno-associated virus type 2 VLP</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5ipi</column>
+</row>
+<row>
+<column type="emdbid">8100</column>
+<column type="emdbTitle">
+Structure of the R432A variant of Adeno-associated virus type 2 VLP
+</column>
+<column type="resolution">3.7</column>
+<column type="pdbId">5ipk</column>
+</row>
+<row>
+<column type="emdbid">8108</column>
+<column type="emdbTitle">
+Structure of RelA bound to the 70S ribosome (overall map, class 2)
+</column>
+<column type="resolution">3.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8109</column>
+<column type="emdbTitle">
+Structure of RelA bound to the 70S ribosome (catalytic domain conformation 1)
+</column>
+<column type="resolution">3.6</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8110</column>
+<column type="emdbTitle">
+Structure of RelA bound to the 70S ribosome (overall map, class 1)
+</column>
+<column type="resolution">3.4</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8111</column>
+<column type="emdbTitle">
+Structure of RelA bound to the 70S ribosome (catalytic domain conformation 3)
+</column>
+<column type="resolution">3.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8112</column>
+<column type="emdbTitle">
+Structure of RelA bound to the 70S ribosome (catalytic domain conformation 4)
+</column>
+<column type="resolution">3.6</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8113</column>
+<column type="emdbTitle">
+Structure of RelA bound to the 70S ribosome (focused classification, TGS domain)
+</column>
+<column type="resolution">3.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8114</column>
+<column type="emdbTitle">
+Structure of RelA bound to the 70S ribosome (focused classification, ZFD)
+</column>
+<column type="resolution">3.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8115</column>
+<column type="emdbTitle">
+Structure of RelA bound to the 70S ribosome (focused classification, RRM)
+</column>
+<column type="resolution">3.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8120</column>
+<column type="emdbTitle">
+Structure of TRPV1 in complex with capsazepine, determined in amphipol a8-35
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8128</column>
+<column type="emdbTitle">
+Architecture of ovine respiratory supercomplex (I-III2-IV) conformation loose
+</column>
+<column type="resolution">6.7</column>
+<column type="pdbId">5j7y</column>
+</row>
+<row>
+<column type="emdbid">8129</column>
+<column type="emdbTitle">
+Architecture of ovine respiratory supercomplex (I-III2)
+</column>
+<column type="resolution">6.7</column>
+<column type="pdbId">5j8k</column>
+</row>
+<row>
+<column type="emdbid">8130</column>
+<column type="emdbTitle">
+Architecture of ovine respiratory supercomplex (I-III2-IV) conformation tight
+</column>
+<column type="resolution">5.8</column>
+<column type="pdbId">5j4z</column>
+</row>
+<row>
+<column type="emdbid">8140</column>
+<column type="emdbTitle">
+3.87 Angstrom structure of the nucleosome core particle obtained by phase-plate cryo-EM
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8143</column>
+<column type="emdbTitle">nuclear ribo-nucleoprotein complex</column>
+<column type="resolution">7.3</column>
+<column type="pdbId">5jpq</column>
+</row>
+<row>
+<column type="emdbid">8146</column>
+<column type="emdbTitle">Methanococcus jannaschii box C/D sRNP</column>
+<column type="resolution">9.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8148</column>
+<column type="emdbTitle">
+Cryo-EM structure of a full archaeal ribosomal translation initiation complex in the P-REMOTE conformation
+</column>
+<column type="resolution">5.3</column>
+<column type="pdbId">5jb3</column>
+</row>
+<row>
+<column type="emdbid">8151</column>
+<column type="emdbTitle">F1Fo ATP synthase dimer from Yarrowia lipolytica</column>
+<column type="resolution">7.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8152</column>
+<column type="emdbTitle">F1Fo ATP synthase dimer from Yarrowia lipolytica</column>
+<column type="resolution">7.2</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8153</column>
+<column type="emdbTitle">
+Masked monomer of ATP synthase dimer from Yarrowia lipolytica, subclass 1
+</column>
+<column type="resolution">9.6</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8154</column>
+<column type="emdbTitle">
+Masked monomer of ATP synthase dimer from Yarrowia lipolytica, subclass 2
+</column>
+<column type="resolution">7.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8155</column>
+<column type="emdbTitle">
+Masked monomer of ATP synthase dimer from Yarrowia lipolytica, subclass 3
+</column>
+<column type="resolution">7.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8157</column>
+<column type="emdbTitle">
+Electron cryotomogram of a cryosectioned budding yeast S. cerevisiae cell
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8169</column>
+<column type="emdbTitle">
+cryo-EM map of the full-length human NPC1 in complex with the cleaved glycoprotein of Ebola virus
+</column>
+<column type="resolution">6.6</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8170</column>
+<column type="emdbTitle">
+Yeast 80S ribosome in the ratcheted state with A/P and P/E tRNAs Hel2 bound
+</column>
+<column type="resolution">8.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8171</column>
+<column type="emdbTitle">
+Structure of shut state rabbit ryanodine receptor 1 activated by calcium ion
+</column>
+<column type="resolution">7.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8172</column>
+<column type="emdbTitle">
+Core region of shut state rabbit ryanodine receptor 1 activated by calcium ion
+</column>
+<column type="resolution">4.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8173</column>
+<column type="emdbTitle">
+CryoET of MEF Cells and Associated Manual Segmentation of Microtubule and Actin
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8174</column>
+<column type="emdbTitle">
+CryoET of U2OS Cells and Associated Manual Segmentation of Mitochondria
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8175</column>
+<column type="emdbTitle">
+Cryo-EM structure of an ErmBL-stalled ribosome in complex with A-, P-, and E-tRNA
+</column>
+<column type="resolution">3.6</column>
+<column type="pdbId">5jte</column>
+</row>
+<row>
+<column type="emdbid">8176</column>
+<column type="emdbTitle">
+Cryo-EM structure of an ErmBL-stalled ribosome in complex with P-, and E-tRNA
+</column>
+<column type="resolution">3.6</column>
+<column type="pdbId">5ju8</column>
+</row>
+<row>
+<column type="emdbid">8178</column>
+<column type="emdbTitle">Active human apoptosome with procaspase-9</column>
+<column type="resolution">4.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8180</column>
+<column type="emdbTitle">Cryo-EM structure of the MamK filament at 6.5 A</column>
+<column type="resolution">6.5</column>
+<column type="pdbId">5jyg</column>
+</row>
+<row>
+<column type="emdbid">8183</column>
+<column type="emdbTitle">helical filament</column>
+<column type="resolution">4.2</column>
+<column type="pdbId">5jzc</column>
+</row>
+<row>
+<column type="emdbid">8184</column>
+<column type="emdbTitle">
+CryoEM structure of the native empty particle of a human rhinovirus C
+</column>
+<column type="resolution">3.2</column>
+<column type="pdbId">5jzg</column>
+</row>
+<row>
+<column type="emdbid">8185</column>
+<column type="emdbTitle">aerolysin prepore cryo-EM map</column>
+<column type="resolution">3.9</column>
+<column type="pdbId">5jzh</column>
+</row>
+<row>
+<column type="emdbid">8187</column>
+<column type="emdbTitle">aerolysin pore cryo-EM map</column>
+<column type="resolution">7.4</column>
+<column type="pdbId">5jzt</column>
+</row>
+<row>
+<column type="emdbid">8188</column>
+<column type="emdbTitle">aerolysin post-prepore and quasipore cryo-EM maps.</column>
+<column type="resolution">4.5</column>
+<column type="pdbId">5jzw</column>
+</row>
+<row>
+<column type="emdbid">8189</column>
+<column type="emdbTitle">
+CryoEM structure of the full virion of a human rhinovirus C
+</column>
+<column type="resolution">2.8</column>
+<column type="pdbId">5k0u</column>
+</row>
+<row>
+<column type="emdbid">8190</column>
+<column type="emdbTitle">
+m48S late-stage initiation complex, purified from rabbit reticulocytes lysates, displaying eIF2 ternary complex and eIF3 i and g subunits relocated to the intersubunit face
+</column>
+<column type="resolution">5.8</column>
+<column type="pdbId">5k0y</column>
+</row>
+<row>
+<column type="emdbid">8191</column>
+<column type="emdbTitle">
+Cryo-EM structure of lactate dehydrogenase (LDH) in complex with GSK2837808A
+</column>
+<column type="resolution">2.8</column>
+<column type="pdbId">5k0z</column>
+</row>
+<row>
+<column type="emdbid">8192</column>
+<column type="emdbTitle">
+Cryo-EM structure of isocitrate dehydrogenase (IDH1)
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5k10</column>
+</row>
+<row>
+<column type="emdbid">8193</column>
+<column type="emdbTitle">
+Cryo-EM structure of isocitrate dehydrogenase (IDH1) in complex with ML309 inhibitor
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5k11</column>
+</row>
+<row>
+<column type="emdbid">8194</column>
+<column type="emdbTitle">
+Cryo-EM structure of glutamate dehydrogenase at 1.8 A resolution
+</column>
+<column type="resolution">1.8</column>
+<column type="pdbId">5k12</column>
+</row>
+<row>
+<column type="emdbid">8195</column>
+<column type="emdbTitle">
+m48S late-stage initiation complex, purified from rabbit reticulocytes lysates, displaying eIF2 ternary complex and eIF3 i and g subunits relocated to the intersubunit face
+</column>
+<column type="resolution">5.8</column>
+<column type="pdbId">5k1h</column>
+</row>
+<row>
+<column type="emdbid">8196</column>
+<column type="emdbTitle">
+Structure of NNQQNY from yeast prion Sup35 with zinc acetate determined by MicroED
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId">5k2e</column>
+</row>
+<row>
+<column type="emdbid">8197</column>
+<column type="emdbTitle">
+Structure of NNQQNY from yeast prion Sup35 with cadmium acetate determined by MicroED
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId">5k2f</column>
+</row>
+<row>
+<column type="emdbid">8198</column>
+<column type="emdbTitle">
+Structure of GNNQQNY from yeast prion Sup35 in space group P21 determined by MicroED
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId">5k2g</column>
+</row>
+<row>
+<column type="emdbid">8199</column>
+<column type="emdbTitle">
+Structure of GNNQQNY from yeast prion Sup35 in space group P212121 determined by MicroED
+</column>
+<column type="resolution">0.0</column>
+<column type="pdbId">5k2h</column>
+</row>
+<row>
+<column type="emdbid">8200</column>
+<column type="emdbTitle">CryoEM structure of a human TRP channel</column>
+<column type="resolution">4.2</column>
+<column type="pdbId">5k47</column>
+</row>
+<row>
+<column type="emdbid">8213</column>
+<column type="emdbTitle">
+receptor-tripod complex of bacteriophage phi812-K420
+</column>
+<column type="resolution">7.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8215</column>
+<column type="emdbTitle">
+Single particle cryo-EM structure of the voltage-gated K+ channel Eag1 bound to the channel inhibitor calmodulin
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5k7l</column>
+</row>
+<row>
+<column type="emdbid">8216</column>
+<column type="emdbTitle">
+MicroED structure of tau VQIVYK peptide at 1.1 A resolution
+</column>
+<column type="resolution">1.1</column>
+<column type="pdbId">5k7n</column>
+</row>
+<row>
+<column type="emdbid">8217</column>
+<column type="emdbTitle">MicroED structure of lysozyme at 1.8 A resolution</column>
+<column type="resolution">1.8</column>
+<column type="pdbId">5k7o</column>
+</row>
+<row>
+<column type="emdbid">8218</column>
+<column type="emdbTitle">MicroED structure of xylanase at 2.3 A resolution</column>
+<column type="resolution">2.3</column>
+<column type="pdbId">5k7p</column>
+</row>
+<row>
+<column type="emdbid">8219</column>
+<column type="emdbTitle">MicroED structure of thaumatin at 2.5 A resolution</column>
+<column type="resolution">2.5</column>
+<column type="pdbId">5k7q</column>
+</row>
+<row>
+<column type="emdbid">8220</column>
+<column type="emdbTitle">MicroED structure of trypsin at 1.7 A resolution</column>
+<column type="resolution">1.7</column>
+<column type="pdbId">5k7r</column>
+</row>
+<row>
+<column type="emdbid">8221</column>
+<column type="emdbTitle">
+MicroED structure of proteinase K at 1.6 A resolution
+</column>
+<column type="resolution">1.6</column>
+<column type="pdbId">5k7s</column>
+</row>
+<row>
+<column type="emdbid">8222</column>
+<column type="emdbTitle">
+MicroED structure of thermolysin at 2.5 A resolution
+</column>
+<column type="resolution">2.5</column>
+<column type="pdbId">5k7t</column>
+</row>
+<row>
+<column type="emdbid">8229</column>
+<column type="emdbTitle">
+Cryo-EM structure of GluA2-0xSTZ at 8.7 Angstrom resolution
+</column>
+<column type="resolution">8.7</column>
+<column type="pdbId">5kbs</column>
+</row>
+<row>
+<column type="emdbid">8230</column>
+<column type="emdbTitle">
+Cryo-EM structure of GluA2-1xSTZ complex at 6.4 Angstrom resolution
+</column>
+<column type="resolution">6.4</column>
+<column type="pdbId">5kbt</column>
+</row>
+<row>
+<column type="emdbid">8231</column>
+<column type="emdbTitle">
+Cryo-EM structure of GluA2-2xSTZ complex at 7.8 Angstrom resolution
+</column>
+<column type="resolution">7.8</column>
+<column type="pdbId">5kbu</column>
+</row>
+<row>
+<column type="emdbid">8232</column>
+<column type="emdbTitle">
+Cryo-EM structure of GluA2 bound to antagonist ZK200775 at 6.8 Angstrom resolution
+</column>
+<column type="resolution">6.8</column>
+<column type="pdbId">5kbv</column>
+</row>
+<row>
+<column type="emdbid">8236</column>
+<column type="emdbTitle">
+Cryo-EM structure of SpCas9-sgRNA-DNA ternary complex
+</column>
+<column type="resolution">4.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8237</column>
+<column type="emdbTitle">
+Cryo-EM structure of the Escherichia coli 70S ribosome in complex with antibiotic Avilamycin C, mRNA and P-site tRNA at 3.6A resolution
+</column>
+<column type="resolution">3.6</column>
+<column type="pdbId">5kcr</column>
+</row>
+<row>
+<column type="emdbid">8238</column>
+<column type="emdbTitle">
+Cryo-EM structure of the Escherichia coli 70S ribosome in complex with antibiotic Evernimycin, mRNA, TetM and P-site tRNA at 3.9A resolution
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId">5kcs</column>
+</row>
+<row>
+<column type="emdbid">8240</column>
+<column type="emdbTitle">EBOV GP in complex with IgG c2G4 and c13C6 Fabs</column>
+<column type="resolution">4.3</column>
+<column type="pdbId">5kel</column>
+</row>
+<row>
+<column type="emdbid">8241</column>
+<column type="emdbTitle">EBOV sGP in complex with IgG c13C6 and BDBV91 Fabs</column>
+<column type="resolution">5.5</column>
+<column type="pdbId">5kem</column>
+</row>
+<row>
+<column type="emdbid">8242</column>
+<column type="emdbTitle">EBOV GP in complex with IgG c4G7 and c13C6 Fabs</column>
+<column type="resolution">4.3</column>
+<column type="pdbId">5ken</column>
+</row>
+<row>
+<column type="emdbid">8243</column>
+<column type="emdbTitle">
+Near-atomic resolution cryo-EM reconstruction of HPV16 complexed with Fab V5
+</column>
+<column type="resolution">4.7</column>
+<column type="pdbId">5key</column>
+</row>
+<row>
+<column type="emdbid">8244</column>
+<column type="emdbTitle">Rigor myosin X co-complexed with an actin filament</column>
+<column type="resolution">9.1</column>
+<column type="pdbId">5kg8</column>
+</row>
+<row>
+<column type="emdbid">8246</column>
+<column type="emdbTitle">
+Structural model of 53BP1 bound to a ubiquitylated and methylated nucleosome, at 4.5 A resolution
+</column>
+<column type="resolution">4.5</column>
+<column type="pdbId">5kgf</column>
+</row>
+<row>
+<column type="emdbid">8247</column>
+<column type="emdbTitle">
+Structure of a ubiquitylated and methylated nucleosome
+</column>
+<column type="resolution">7.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8252</column>
+<column type="emdbTitle">2.6A 3D reconstruction of Tulane virus</column>
+<column type="resolution">2.6</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8253</column>
+<column type="emdbTitle">Phage Qbeta with icosahedral symmetry</column>
+<column type="resolution">3.7</column>
+<column type="pdbId">5kip</column>
+</row>
+<row>
+<column type="emdbid">8254</column>
+<column type="emdbTitle">Phage Qbeta asymmetric reconstruction</column>
+<column type="resolution">7.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8255</column>
+<column type="emdbTitle">Phage Qbeta capsid asymmetric reconstruction</column>
+<column type="resolution">6.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8256</column>
+<column type="emdbTitle">
+Architecture of fully occupied GluA2 AMPA receptor - TARP complex elucidated by single particle cryo-electron microscopy
+</column>
+<column type="resolution">7.3</column>
+<column type="pdbId">5kk2</column>
+</row>
+<row>
+<column type="emdbid">8257</column>
+<column type="emdbTitle">Supressed</column>
+<column type="resolution">3.4</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8262</column>
+<column type="emdbTitle">Mock-treated Brome Mosaic Virus (RNA1)</column>
+<column type="resolution">7.6</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8263</column>
+<column type="emdbTitle">CIP-treated Brome Mosaic Virus (RNA1)</column>
+<column type="resolution">8.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8264</column>
+<column type="emdbTitle">Mock-treated Brome Mosaic Virus (RNA2.3/4)</column>
+<column type="resolution">6.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8265</column>
+<column type="emdbTitle">CIP-treated Brome Mosaic Virus (RNA2.3/4)</column>
+<column type="resolution">8.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8266</column>
+<column type="emdbTitle">
+Near-atomic cryo-EM structure of PRC1 bound to the microtubule
+</column>
+<column type="resolution">3.5</column>
+<column type="pdbId">5kmg</column>
+</row>
+<row>
+<column type="emdbid">8267</column>
+<column type="emdbTitle">CryoEM Reconstruction of Hsp104 Hexamer</column>
+<column type="resolution">5.6</column>
+<column type="pdbId">5kne</column>
+</row>
+<row>
+<column type="emdbid">8272</column>
+<column type="emdbTitle">Suppressed</column>
+<column type="resolution">1.9</column>
+<column type="pdbId">5knz</column>
+</row>
+<row>
+<column type="emdbid">8273</column>
+<column type="emdbTitle">Suppressed</column>
+<column type="resolution">1.4</column>
+<column type="pdbId">5ko0</column>
+</row>
+<row>
+<column type="emdbid">8274</column>
+<column type="emdbTitle">
+YphC and YsxC GTPases assist the maturation of the central protuberance, GTPase-associated region, and functional core of the 50S ribosomal subunit
+</column>
+<column type="resolution">5.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8275</column>
+<column type="emdbTitle">
+YphC and YsxC GTPases assist the maturation of the central protuberance, GTPase-associated region, and functional core of the 50S ribosomal subunit
+</column>
+<column type="resolution">6.2</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8276</column>
+<column type="emdbTitle">
+YphC and YsxC GTPases assist the maturation of the central protuberance, GTPase-associated region, and functional core of the 50S ribosomal subunit
+</column>
+<column type="resolution">6.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8277</column>
+<column type="emdbTitle">expanded poliovirus bound to VHH 10E</column>
+<column type="resolution">4.8</column>
+<column type="pdbId">5kwl</column>
+</row>
+<row>
+<column type="emdbid">8278</column>
+<column type="emdbTitle">Supressed</column>
+<column type="resolution">5.7</column>
+<column type="pdbId">5kp9</column>
+</row>
+<row>
+<column type="emdbid">8279</column>
+<column type="emdbTitle">
+Structure of RelA bound to ribosome in absence of A/R tRNA (Structure I)
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId">5kps</column>
+</row>
+<row>
+<column type="emdbid">8280</column>
+<column type="emdbTitle">
+Structure of RelA bound to ribosome in presence of A/R tRNA (Structure II)
+</column>
+<column type="resolution">4.1</column>
+<column type="pdbId">5kpv</column>
+</row>
+<row>
+<column type="emdbid">8281</column>
+<column type="emdbTitle">
+Structure of RelA bound to ribosome in presence of A/R tRNA (Structure III)
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId">5kpw</column>
+</row>
+<row>
+<column type="emdbid">8282</column>
+<column type="emdbTitle">
+Structure of RelA bound to ribosome in presence of A/R tRNA (Structure IV)
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId">5kpx</column>
+</row>
+<row>
+<column type="emdbid">8284</column>
+<column type="emdbTitle">expanded poliovirus in complex with VHH 12B</column>
+<column type="resolution">4.3</column>
+<column type="pdbId">5ktz</column>
+</row>
+<row>
+<column type="emdbid">8285</column>
+<column type="emdbTitle">expanded poliovirus in complex with VHH 17B</column>
+<column type="resolution">5.3</column>
+<column type="pdbId">5ku0</column>
+</row>
+<row>
+<column type="emdbid">8286</column>
+<column type="emdbTitle">Suppressed</column>
+<column type="resolution">5.3</column>
+<column type="pdbId">5ku2</column>
+</row>
+<row>
+<column type="emdbid">8287</column>
+<column type="emdbTitle">
+Cryo-EM reconstruction of Neisseria meningitidis Type IV pilus
+</column>
+<column type="resolution">6.0</column>
+<column type="pdbId">5kua</column>
+</row>
+<row>
+<column type="emdbid">8289</column>
+<column type="emdbTitle">GluK2EM with 2S,4R-4-methylglutamate</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5kuf</column>
+</row>
+<row>
+<column type="emdbid">8292</column>
+<column type="emdbTitle">
+naturally occurring expanded poliovirus (not heated)
+</column>
+<column type="resolution">6.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8294</column>
+<column type="emdbTitle">
+Structure of 2x duplex target DNA-bound Cascade/I-C
+</column>
+<column type="resolution">6.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8295</column>
+<column type="emdbTitle">
+Structure of 2x duplex DNA target-bound Cascade/I-C
+</column>
+<column type="resolution">8.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8296</column>
+<column type="emdbTitle">
+Structure of 1x duplex DNA target-bound Cascade/I-C
+</column>
+<column type="resolution">7.6</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8297</column>
+<column type="emdbTitle">P. aeruginosa Type IVa secretin PilQ</column>
+<column type="resolution">7.4</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8298</column>
+<column type="emdbTitle">Structure of Iho670 Flagellar-like Filament</column>
+<column type="resolution">4.0</column>
+<column type="pdbId">5kyh</column>
+</row>
+<row>
+<column type="emdbid">8300</column>
+<column type="emdbTitle">
+Cryo-EM structure of Casp-8 tDED filament (CASP target)
+</column>
+<column type="resolution">4.6</column>
+<column type="pdbId">5l08</column>
+</row>
+<row>
+<column type="emdbid">8302</column>
+<column type="emdbTitle">
+HIV Clade B Env SOSIP ectodomain trimer from the Amsterdam Cohort Study patient AMC011 in complex with Fab from IgG PGV04
+</column>
+<column type="resolution">6.2</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8304</column>
+<column type="emdbTitle">phi812K1-420 capsid</column>
+<column type="resolution">5.1</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8306</column>
+<column type="emdbTitle">
+CryoEM structure of a beak and feather disease virus-like particle encapsidating ssDNA
+</column>
+<column type="resolution">4.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8313</column>
+<column type="emdbTitle">
+Structure of the SLC4 transporter Bor1p in an inward-facing conformation
+</column>
+<column type="resolution">5.9</column>
+<column type="pdbId">5sv9</column>
+</row>
+<row>
+<column type="emdbid">8314</column>
+<column type="emdbTitle">
+Architecture of a headful DNA-packaging bacterial virus at 2.89 Angstrom resolution by electron cryo-microscopy
+</column>
+<column type="resolution">2.9</column>
+<column type="pdbId">5l35</column>
+</row>
+<row>
+<column type="emdbid">8315</column>
+<column type="emdbTitle">
+Structure of the STRA6 receptor for retinol uptake in complex with calmodulin
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId">5sy1</column>
+</row>
+<row>
+<column type="emdbid">8316</column>
+<column type="emdbTitle">Wild-type E. coli GroEL bound with PepQ</column>
+<column type="resolution">8.3</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8317</column>
+<column type="emdbTitle">Wild-type E. coli GroEL</column>
+<column type="resolution">7.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8318</column>
+<column type="emdbTitle">
+Mutant E. coli GroEL (C-terminal truncated) bound with PepQ
+</column>
+<column type="resolution">8.3</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8319</column>
+<column type="emdbTitle">C-terminal truncated mutant E. coli GroEL</column>
+<column type="resolution">7.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8324</column>
+<column type="emdbTitle">
+Beta-propiolactone treated coxsackievirus A16 mature virion
+</column>
+<column type="resolution">3.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8325</column>
+<column type="emdbTitle">
+Beta-propiolactone treated coxsackievirus A16 empty procapsid
+</column>
+<column type="resolution">6.5</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8326</column>
+<column type="emdbTitle">Cryo-tomogram of log phase Pelagibacter cell</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8327</column>
+<column type="emdbTitle">Pelagibacter cell grown to stationary phase</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8328</column>
+<column type="emdbTitle">Pelagibacter cell with pili</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8329</column>
+<column type="emdbTitle">Pelagibacter cell is completing division</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8330</column>
+<column type="emdbTitle">
+Outer membrane pore complex PilQ in Pelagibacter cell
+</column>
+<column type="resolution">6.4</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8331</column>
+<column type="emdbTitle">
+Glycan shield and epitope masking of a coronavirus spike protein observed by cryo-electron microscopy
+</column>
+<column type="resolution">3.4</column>
+<column type="pdbId">5szs</column>
+</row>
+<row>
+<column type="emdbid">8332</column>
+<column type="emdbTitle">
+Structural basis for dynamic regulation of the human 26S proteasome
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5t0c</column>
+</row>
+<row>
+<column type="emdbid">8333</column>
+<column type="emdbTitle">
+Structural basis for dynamic regulation of the human 26S proteasome
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5t0c</column>
+</row>
+<row>
+<column type="emdbid">8334</column>
+<column type="emdbTitle">
+Structural basis for dynamic regulation of the human 26S proteasome
+</column>
+<column type="resolution">4.4</column>
+<column type="pdbId">5t0g</column>
+</row>
+<row>
+<column type="emdbid">8335</column>
+<column type="emdbTitle">
+Structural basis for dynamic regulation of the human 26S proteasome
+</column>
+<column type="resolution">6.8</column>
+<column type="pdbId">5t0h</column>
+</row>
+<row>
+<column type="emdbid">8336</column>
+<column type="emdbTitle">
+Structural basis for dynamic regulation of the human 26S proteasome
+</column>
+<column type="resolution">8.0</column>
+<column type="pdbId">5t0i</column>
+</row>
+<row>
+<column type="emdbid">8337</column>
+<column type="emdbTitle">
+Structural basis for dynamic regulation of the human 26S proteasome
+</column>
+<column type="resolution">8.0</column>
+<column type="pdbId">5t0j</column>
+</row>
+<row>
+<column type="emdbid">8342</column>
+<column type="emdbTitle">
+Structural basis for gating and activation of RyR1 (30 uM Ca2+ dataset, all particles)
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5t15</column>
+</row>
+<row>
+<column type="emdbid">8344</column>
+<column type="emdbTitle">Influenza virus membrane fusion with liposomes</column>
+<column type="resolution">0.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8346</column>
+<column type="emdbTitle">Cryo-EM Structure of Yeast Pre-40S</column>
+<column type="resolution">9.4</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8347</column>
+<column type="emdbTitle">
+Cryo-EM Structure of Yeast Pre-40S, Dim1 Local Class
+</column>
+<column type="resolution">9.9</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8355</column>
+<column type="emdbTitle">
+Cryo-EM structure of Polycystic Kidney Disease protein 2 (PKD2)
+</column>
+<column type="resolution">4.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8356</column>
+<column type="emdbTitle">
+Cryo-EM structure of Polycystic Kidney Disease protein 2 (PKD2)
+</column>
+<column type="resolution">4.0</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8361</column>
+<column type="emdbTitle">
+Structure and assembly model for the Trypanosoma cruzi 60S ribosomal subunit
+</column>
+<column type="resolution">2.5</column>
+<column type="pdbId">5t5h</column>
+</row>
+<row>
+<column type="emdbid">8363</column>
+<column type="emdbTitle">
+CryoEM map of the S. cerevisiae Vo region lacking subunit d
+</column>
+<column type="resolution">7.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8364</column>
+<column type="emdbTitle">
+CryoEM map of the S. cerevisiae Vo region solubilized in DDM
+</column>
+<column type="resolution">8.3</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8367</column>
+<column type="emdbTitle">
+CryoEM map of the Vo region from S. cerevisiae yeast strain with the open reading frame YPR170W-B deleted
+</column>
+<column type="resolution">8.7</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8369</column>
+<column type="emdbTitle">
+Methicillin Resistant, Linezolid resistant Staphylococcus aureus 70S ribosome (delta S145 uL3)
+</column>
+<column type="resolution">3.6</column>
+<column type="pdbId">5t7v</column>
+</row>
+<row>
+<column type="emdbid">8372</column>
+<column type="emdbTitle">
+Structure of rabbit RyR1 (Ca2+-only dataset, class 1)
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5t9m</column>
+</row>
+<row>
+<column type="emdbid">8373</column>
+<column type="emdbTitle">
+Structure of rabbit RyR1 (Ca2+-only dataset, class 2)
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5t9n</column>
+</row>
+<row>
+<column type="emdbid">8374</column>
+<column type="emdbTitle">
+Structure of rabbit RyR1 (Ca2+-only dataset, class 3)
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5t9r</column>
+</row>
+<row>
+<column type="emdbid">8375</column>
+<column type="emdbTitle">
+Structure of rabbit RyR1 (Ca2+-only dataset, class 4)
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5t9s</column>
+</row>
+<row>
+<column type="emdbid">8376</column>
+<column type="emdbTitle">
+Structure of rabbit RyR1 (Caffeine/ATP/Ca2+ dataset, class 1)
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId"/>
+</row>
+<row>
+<column type="emdbid">8377</column>
+<column type="emdbTitle">
+Structure of rabbit RyR1 (Caffeine/ATP/Ca2+ dataset, class 2)
+</column>
+<column type="resolution">3.8</column>
+<column type="pdbId">5ta3</column>
+</row>
+<row>
+<column type="emdbid">8378</column>
+<column type="emdbTitle"></column>
+</row>
+</resultset>
